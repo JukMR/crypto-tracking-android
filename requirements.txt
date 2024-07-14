@@ -1,3 +1,5 @@
+setuptools
 kivy
 requests
 schedule
+buildozer
